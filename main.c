@@ -5,9 +5,6 @@
 //  Created by cliff on 2016-07-28.
 //  Copyright © 2016 cliff. All rights reserved.
 
-//  задано время, нужно рассчитать угол между часовой и минутной стрелками
-//
-
 #include <stdio.h>
 
 float getMinuteAngle(int min){
